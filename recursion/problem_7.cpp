@@ -1,5 +1,5 @@
 // Factorial of a number using recursion :
-// functional recursive way :
+// Functional recursive way :
 
 #include <iostream>
 using namespace std;
