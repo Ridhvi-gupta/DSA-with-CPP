@@ -1,3 +1,5 @@
+// Basic program to take multiple inputs from user
+
 #include<iostream>
 using namespace std;
 
