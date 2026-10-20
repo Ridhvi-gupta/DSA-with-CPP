@@ -1,4 +1,4 @@
-// summation of 1st N natural no.s :
+// Summation of 1st N natural no.s :
 // M1 : using for loop
 
 #include <iostream>
