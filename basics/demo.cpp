@@ -1,3 +1,5 @@
+// To take input from user
+
 #include <iostream>
 using namespace std;
 int main() {
