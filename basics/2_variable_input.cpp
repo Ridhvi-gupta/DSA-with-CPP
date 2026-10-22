@@ -1,4 +1,4 @@
-// Basic program to take multiple inputs from user
+// Basic program to take multiple inputs from the user
 
 #include<iostream>
 using namespace std;
