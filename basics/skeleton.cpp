@@ -16,6 +16,7 @@ int main() {
     std::cout << "Hey Striver!" << std::endl << "Hey Raj!" << std::endl; // "\n" and endl are used to print a new line in C++. The function is same to take to next line.
     return 0;
 }
+
 // Output :
 // Hello, World!
 // This is a generic skeleton of C++ code.
