@@ -1,5 +1,5 @@
-// print linearly from N to 1 using recursion :
-// print (N to 1), if N = 4, then : 4, 3, 2, 1 will be printed as output
+// Print linearly from N to 1 using recursion :
+// Print (N to 1), if N = 4, then : 4, 3, 2, 1 will be printed as output
 
 #include <iostream>
 using namespace std;
