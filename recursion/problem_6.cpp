@@ -24,6 +24,7 @@ int main()
 // M2 : using recursion (parameterised and functional way) 
 
 // Parameterized way : (in parameters without any global variables)
+
 /**
  * This is a parameterized approach to calculate the sum of the first N natural numbers.
  * It uses recursion to break down the problem into smaller subproblems.
