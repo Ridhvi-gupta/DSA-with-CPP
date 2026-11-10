@@ -21,7 +21,7 @@ int main()
 
     return 0;
 }
- // time complexity : O(n) and space complexity : O(n) (due to recursion stack).
+ // Time complexity : O(n) and space complexity : O(n) (due to recursion stack).
 
  
 // If we will use : if (n == 1) return 1; it works for positive n (n ≥ 1), but f(0) would not stop correctly. So for a general factorial function, n == 0 is safer.
