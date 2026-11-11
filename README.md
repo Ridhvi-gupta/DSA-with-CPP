@@ -5,7 +5,7 @@ A collection of C++ programming fundamentals and Data Structures & Algorithms (D
 ## 📚 Contents
 
 - **Basics:** C++ fundamentals and introductory programming examples
-- **DSA:** Data Structures and Algorithms concepts and implementations
+- **DSA:** Data Structures and Algorithms concepts and implementations with examples
 - **Pseudocode:** Step-by-step logical approaches to programming problems
 
 ## 🎯 Purpose
