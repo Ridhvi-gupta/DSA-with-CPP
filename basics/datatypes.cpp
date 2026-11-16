@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h> // C++ header file that includes every standard library
 using namespace std;
 int main() {
     // int
